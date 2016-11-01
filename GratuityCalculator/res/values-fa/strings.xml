@@ -9,10 +9,10 @@ Currency:  The IRR or Iranian Rial (Symbol: ﷼ ,code: IRR) is the currency of I
 -->
 <resources>
     <string name="app_name">ماشین حساب انعام</string>
-    <string name="amount">مبلغ ريال</string>
+    <string name="amount">مبلغ (ريال)</string>
     <string name="amountHint">پس از کسر مالیات</string>
-    <string name="gratuity">انعام ريال</string>
-    <string name="total">جمع کل ريال</string>
+    <string name="gratuity">انعام (ريال)</string>
+    <string name="total">جمع کل (ريال)</string>
     <string name="service">نرخ خدمات</string>
     <string name="zero">0.00</string>
     <string name="gratuityPercent">درصد</string>
